@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+
+    <!-- Trust system certificates globally -->
+    <base-config>
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+
+    <!-- Optional: allow HTTP for Geoapify (mostly unnecessary, HTTPS is used) -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">api.geoapify.com</domain>
+    </domain-config>
+
+</network-security-config>
