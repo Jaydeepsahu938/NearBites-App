@@ -50,4 +50,36 @@ Powered by the **Places API**, NearBites allows users to discover nearby restaur
 
 ---
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/b51bc6d0-1a29-41ee-9f88-e5177f667fb6" alt="Image 8" width="30%" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/c880b5a9-fb66-4f24-9794-22583b478f6f" alt="Image 9" width="30% style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/77baf627-4c8f-43a8-951d-3ea16c75f62e" alt="Image 1" width="30%">
+</p>
+
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/78aee6f0-a4b8-4798-b844-680bbb8ed63a" alt="Image 7" width="30%" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/7147b8ac-430e-42fa-b300-67cb8a7dddb6" alt="Image 5" width="30%" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/a0de811c-f275-472f-82c3-b7d8b628ed97" alt="Image 6" width="30%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b51bc6d0-1a29-41ee-9f88-e5177f667fb6" alt="Image 8" width="30%" style="margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/5bdab0ca-64a4-4e0e-857c-444f8485cc6f" alt="Image 2" width="30%"style="margin-right: 10px; ">
+ >
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/244f7385-1a58-410e-8296-4711bc639808" alt="Image 1" width="30% style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/bf5df7a4-889e-4701-b43c-4242153593c6" alt="Image 2" width="30% style="margin-right: 10px;">
+   <img src="https://github.com/user-attachments/assets/10ceba60-073b-497d-bebe-c5e54920ed3a" alt="Image 4" width="30%" ">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f71a63cb-9f3e-4492-960c-e785e7b58465" alt="Image 3" width="30% style="margin-right: 10px;"
+  <img src="https://github.com/user-attachments/assets/5a015836-0310-409b-aad1-f4a3b83c52f4" alt="Image 4" width="30% style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/902f9099-90b3-4512-aabf-7e59cf834601" alt="Image 5" width="30% ">
+</p>
+
 
